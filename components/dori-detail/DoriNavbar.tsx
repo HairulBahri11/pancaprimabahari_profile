@@ -64,7 +64,7 @@ export default function DoriNavbar() {
               href="#kontak"
               className="bg-sky-700 hover:bg-sky-600 text-white text-xs font-bold px-6 py-3.5 rounded-xl shadow-lg shadow-slate-900/10 transition-all duration-300 tracking-widest uppercase"
             >
-              Hubungi Kemitraan
+              Hubungi
             </a>
           </div>
         </div>
