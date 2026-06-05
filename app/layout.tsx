@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     siteName: "PT Panca Prima Bahari",
     images: [
       {
-        url: "/assset/logo.png",
+        url: "/assset/512.png",
         width: 1200,
         height: 630,
         alt: "Logo PT Panca Prima Bahari",
@@ -50,7 +50,7 @@ export const metadata: Metadata = {
     follow: true,
   },
   icons: {
-    icon: "/favicon.ico", // Pastikan file favicon ada di folder /public
+    icon: { url: "/assset/512.png", type: "image/png" }, // Pastikan file favicon ada di folder /public
     apple: "/apple-touch-icon.png",
   },
 };
