@@ -125,7 +125,7 @@ export default function Footer() {
       {/* Bagian Copyright & Navigasi Bawah */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-8 flex flex-col md:flex-row justify-between items-center text-xs md:text-sm text-slate-400 gap-4">
         <p>
-          &copy; 2026 ProteinMBG.com – PT Panca Prima Bahari. Hak Cipta
+          &copy; 2026 pancaprimabahari.com – PT Panca Prima Bahari. Hak Cipta
           Dilindungi.
         </p>
 
